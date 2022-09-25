@@ -10,7 +10,7 @@ assignees: ''
 **Beschreibe den Fehler**
 Eine klare und prägnante Beschreibung des Fehlers.
 
-**Fortpflanzen**
+**Reproduzieren des Fehlers**
 Schritte zum Reproduzieren des Verhaltens:
 1. Gehen Sie zu '...'
 2. Klicken Sie auf '....'
