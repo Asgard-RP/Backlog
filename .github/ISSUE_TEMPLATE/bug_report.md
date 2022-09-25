@@ -23,16 +23,6 @@ Eine klare und prägnante Beschreibung dessen, was Sie erwartet haben.
 **Screenshots**
 Fügen Sie gegebenenfalls Screenshots hinzu, um Ihr Problem zu erklären.
 
-**Desktop (bitte füllen Sie die folgenden Informationen aus):**
-  - OS: [z.B. iOS]
-  - Browser [z.B. Chrom, Safari]
-  - Version [z.B. 22]
-
-**Smartphone (bitte folgende Angaben ausfüllen):**
-  - Gerät: [z.B. iPhone 6]
-  - OS: [z.B. iOS8.1]
-  - Browser [z.B. Aktienbrowser, Safari]
-  - Version [z.B. 22]
 
 **Zusätzlicher Kontext**
 Fügen Sie hier einen beliebigen anderen Kontext zum Problem hinzu.
